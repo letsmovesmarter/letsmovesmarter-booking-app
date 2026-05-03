@@ -1,6 +1,6 @@
 import { BookingForm } from "@/components/BookingForm";
 
-export default function HomePage() {
+export default function Page() {
   return (
     <main className="min-h-screen bg-[#f7f4ee]">
       <section className="mx-auto grid min-h-screen w-full max-w-6xl items-center gap-10 px-6 py-10 md:grid-cols-[1fr_440px] lg:px-8">
