@@ -218,7 +218,7 @@ export default function Page() {
           <h2 className="mt-3 text-3xl font-black text-[#333333]">A local company with bigger standards.</h2>
           <p className="mt-5 text-lg leading-8 text-[#4d5659]">
             The company exists to make moving supplies feel simpler, cleaner, and more reliable.
-            Wattson guides the customer experience with practical tips and a little personality.
+            WATTSON guides the customer experience with practical tips and a little personality.
           </p>
         </div>
       </section>
